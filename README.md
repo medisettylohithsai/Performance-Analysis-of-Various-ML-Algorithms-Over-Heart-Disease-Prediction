@@ -1,2 +1,14 @@
-# Performance-Analysis-of-Various-ML-Algorithms-Over-Heart-Disease-Prediction
-This project analyzes the performance of various machine learning algorithms for heart disease prediction. Algorithms like Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes, and Gradient Boosting are evaluated. Their accuracy, precision, and reliability are compared to identify the most effective model for early diagnosis.
+# Heart_Disease_Prediction_Using_MachineLearning
+Performance of Top 10 Machine Learning Algorithms for Heart Disease Prediction 
+->Random Forest ALgorithm
+->KNN Algorithm
+->ANN Algorithm
+->RNN Algorithm
+->XGBoost Algorithm
+->LSTM Algorithm
+->Desicion Tree Classifier
+->Logistic Regression Algorithm
+->SVM ALgorithm
+->Naive Bayes Algorithm
+
+Here, I applied all the 10 machine learning algorithm models to predict whether the person is suffering with heart disease or not and did the the performance analysis on those 10 algorithms by calculating accuracy, precision, recall, f1_score etc...
